@@ -32,7 +32,8 @@ Cong, L. W., G. Feng, J. He, and X. He (2024). Growing the Efficient Frontier on
 
 Xin He
 
-*Tenure-Track Associate Professor of Finance at School of Management University of Science and Technology of China.*
+Tenure-Track Associate Professor of Finance,
+School of Management, University of Science and Technology of China.
 
 <xin.he@ustc.edu.cn>
 
