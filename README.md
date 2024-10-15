@@ -26,7 +26,7 @@ There are three folders for different train-test schemes:
 
 # Reference
 
-Cong, L. W., G. Feng, J. He, and X. He (2024). Growing the Efficient Frontier on Panel Trees. Forthcoming, Journal of Financial Economics.
+Cong, L. W., G. Feng, J. He, and X. He (2024). Growing the Efficient Frontier on Panel Trees. Forthcoming, Journal of Financial Economics. [SSRN Link](https://ssrn.com/abstract=3949463)
 
 # Contact 
 
